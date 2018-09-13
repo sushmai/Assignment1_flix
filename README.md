@@ -1,4 +1,4 @@
-# Project 1 - *Flix*
+# Project 1 - *Flix - part 1 * 
 
 **Flix** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
@@ -42,7 +42,7 @@ I had hard time making search work. But it worked finally!
 
 ## License
 
-    Copyright [2018] [Sanaz Khosravi]
+    Copyright [2018] [Sushma]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  Flixo
 //
-//  Created by Sanaz Khosravi on 9/6/18.
-//  Copyright © 2018 GirlsWhoCode. All rights reserved.
+//  Created by sushma on 9/6/18.
+//  Copyright © 2018 SUshma. All rights reserved.
 //
 
 import UIKit
